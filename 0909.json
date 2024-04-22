@@ -5,6 +5,10 @@
       "name": "一骁 No.1"
     },
     {
+      "url": "http://219.146.255.198:18086/tvbox/my_ext.json",
+      "name": "一骁 XY"
+    },
+    {
       "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0825.json",
       "name": "一骁 PG"
     },
