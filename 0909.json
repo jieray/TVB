@@ -1,12 +1,20 @@
 {
   "urls": [
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0821.json",
-      "name": "一骁 No.1"
-    },
-    {
       "url": "http://219.146.255.198:18086/tvbox/my_ext.json",
       "name": "一骁 XY"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/lwd461235458/Tvbox-Sin/blob/main/jsm.json",
+      "name": "一骁 SIN"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/lwd461235458/TVBox-Xm/blob/main/jsm18.json",
+      "name": "一骁 XM"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0821.json",
+      "name": "一骁 No.1"
     },
     {
       "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0825.json",
