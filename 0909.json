@@ -47,22 +47,54 @@
     {
       "name": "👿饭太硬",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"
-      },
-      {
+    },
+    {
       "name": "🍚饭太硬",
       "url": "http://www.饭太硬.com/tv/"
-      },
-      {
+    },
+    {
       "name": "✍️码点",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/mdxgh/api.json"
-      },
-      {
+    },
+    {
       "name": "☃️PG",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/aaaafeng123/PG/main/jsm.json"
-      },
-      {
+    },
+    {
       "name": "👑潇洒仓",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
-      }
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json",
+      "name": "影视"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json",
+      "name": "动漫"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json",
+      "name": "文艺"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json",
+      "name": "体育"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json",
+      "name": "教育"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/api.json",
+      "name": "直播"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/api.json",
+      "name": "磁力"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json",
+      "name": "云盘"
+    }
   ]
 }
