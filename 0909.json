@@ -29,6 +29,14 @@
       "name": "一骁 FM"
     },
     {
+      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/jsm.json",
+      "name": "一骁 JSM"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/dianshi.json",
+      "name": "一骁 TV"
+    },
+    {
       "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/js.json",
       "name": "一骁 JS"
     },
@@ -39,6 +47,10 @@
     {
       "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/9918.json",
       "name": "一骁 9918"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/99188.json",
+      "name": "一骁 9919"
     },
     {
       "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index.json",
