@@ -1,51 +1,47 @@
 {
   "urls": [
     {
-      "url": "file://tvfan/TV-BOX-main/Aries/jsm.json",
-      "name": "一骁 XM"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0821.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/0821.json",
       "name": "一骁 No.1"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0825.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/0825.json",
       "name": "一骁 PG"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0826.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/0826.json",
       "name": "一骁 FTY"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/0827.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/0827.json",
       "name": "一骁 FM"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/jsm.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/jsm.json",
       "name": "一骁 JSM"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/dianshi.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/dianshi.json",
       "name": "一骁 TV"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/js.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/js.json",
       "name": "一骁 JS"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/XYQ.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/XYQ.json",
       "name": "一骁 XYQ"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/9918.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/9918.json",
       "name": "一骁 9918"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/jieray/YixiaoTV/blob/master/99188.json",
+      "url": "https://github.moeyy.xyz/https://github.com/jieray/YixiaoTV/blob/master/99188.json",
       "name": "一骁 9919"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index.json",
+      "url": "https://github.moeyy.xyz/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index.json",
       "name": "一骁 CAT"
     },
     {
